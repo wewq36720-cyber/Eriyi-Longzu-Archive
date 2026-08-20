@@ -1,0 +1,6 @@
+.git
+.zcode
+node_modules
+*.md
+*.txt
+Dockerfile
